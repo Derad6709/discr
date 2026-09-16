@@ -1,3 +1,4 @@
+*/data/** filter=lfs diff=lfs merge=lfs -text
 knapsack/data/ks_60_0 filter=lfs diff=lfs merge=lfs -text
 knapsack/data/ks_100_1 filter=lfs diff=lfs merge=lfs -text
 knapsack/data/ks_40_0 filter=lfs diff=lfs merge=lfs -text
